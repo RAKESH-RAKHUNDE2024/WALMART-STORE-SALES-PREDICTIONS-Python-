@@ -1,9 +1,13 @@
+<div align="center">
+
 ### WALMART-STORE-SALES-PREDICTIONS-Python
 
 
 
 ![](TEMPLATES/intro1.jpg)
-
+ 
+</div>
+ 
 
 
 ### OBJECTIVES:-
