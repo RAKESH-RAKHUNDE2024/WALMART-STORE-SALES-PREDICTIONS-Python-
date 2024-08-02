@@ -1,0 +1,9 @@
+#### DATASETS :-
+
+-1) Stores.csv:- This File Contains Anonymized Information About The 45 Stores, Indicating The Type And Size Of Store.
+
+-2) Train.csv:- This Is The Historical Training Data, Which Covers To 2010-02-05 To 2012-11-01.
+
+-3) Test.csv:- This File Is Identical To Train.csv, Except We Have Withheld The Weekly Sales. You Must Predict The Sales For Each Triplet Of Store, Department, And Date In This File.
+
+-4) Features.csv:- This File Contains Additional Data Related To The Store, Department, And Regional Activity For The Given Dates.
