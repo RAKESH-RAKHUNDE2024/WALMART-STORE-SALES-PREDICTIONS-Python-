@@ -1,8 +1,5 @@
 <div align="center">
  
-[![Github](https://github.com/RAKESH-RAKHUNDE2024.svg)][1]
-[![Linkedin](https://www.linkedin.com/in/rakesh-rakhunde2022/.svg)][2]
-
 
 ### WALMART-STORE-SALES-PREDICTIONS-Python
 
