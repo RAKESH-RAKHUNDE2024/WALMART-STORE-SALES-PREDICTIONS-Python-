@@ -200,7 +200,7 @@ I am an Data Engineer Intern & AI Enthusiast.
 [1]: https://github.com/RAKESH-RAKHUNDE2024
 [2]: https://www.linkedin.com/in/rakesh-rakhunde2022/
  
-
-
+[![github](https://github.com/RAKESH-RAKHUNDE2024.svg)][1]
+[![linkedin](https://www.linkedin.com/in/rakesh-rakhunde2022/.svg)][2]
 
  
